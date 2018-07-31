@@ -1,0 +1,3 @@
+{"key": {"_id": 1}, "name": "_id_", "ns": "gadgetgo.objectlabs-system", "v": 2}
+{"key": {"_id": 1}, "name": "_id_", "ns": "gadgetgo.objectlabs-system.admin.collections", "v": 2}
+{"key": {"_id": 1}, "name": "_id_", "ns": "gadgetgo.phones", "v": 2}
