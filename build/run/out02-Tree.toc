@@ -1,5 +1,0 @@
-('c:\\users\\david\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\pymongo-3.7.0-py3.6-win-amd64.egg',
- None,
- {'EGG-INFO', '*.pyc', '*.so', '*.pyd', '*.py', '*.pyo'},
- 'DATA',
- [])
